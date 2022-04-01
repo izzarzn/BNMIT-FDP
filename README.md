@@ -10,7 +10,7 @@
 
 ------
 
-<h3 align="center"> IDEA LAB MANUAL </h3>
+<h2 align="center"> IDEA LAB MANUAL </h2>
 
 ------
 |Arduino IDE Installation Guide |
