@@ -10,7 +10,7 @@
 
 ------
 
-<h3 align="center"> MANUAL </h3>
+<h3 align="center">  </h3>
 
 ------
 |Arduino IDE Installation Guide |
