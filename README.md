@@ -21,14 +21,18 @@
 
 ## Arduino Shield Pin Description
 
-| **Components** | **GPIO PIN DESCRIPTION FOR EXPERIMENTS** |
+| **Components** | **Arduino PIN** |
 |:----:|:----:|
-|Buzzer|3|
-|LDR|9|
-|PUSH|2|
-|LED|9|
-|HALL EFFECT|A3|
+|RELAY|2|
+|BUZZER|3|
+|SERVO|5|
+|RGB BLUE|9|
+|RGB GREEN|10|
+|RGB RED|11|
+|PUSH BUTTON|12|
 |POTENTIOMETER|A2|
+|HALL EFFECT|A3|
 |THERMISTER|A4|
+|LDR|A5|
 
 ------
