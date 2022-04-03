@@ -18,3 +18,17 @@
   | [Click Here](https://github.com/izzarzn/SST-IoT-BOARD/blob/617990cafeb0b44f6291330711279cd0de83a247/Arduino_Installation.md)|
 
 ------
+
+## Arduino Shield Pin Description
+
+| **Components** | **GPIO PIN DESCRIPTION FOR EXPERIMENTS** |
+|:----:|:----:|
+|Buzzer|3|
+|LDR|9|
+|PUSH|2|
+|LED|9|
+|HALL EFFECT|A3|
+|POTENTIOMETER|A2|
+|THERMISTER|A4|
+
+------
