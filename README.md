@@ -10,7 +10,7 @@
 
 ------
 
-<h3 align="center"> Three Day’s Hands-on Faculty Training Program on "Sensing, Automation & IoT  </h3>
+<h3 align="center"> Three Day’s Hands-on Faculty Training Program on "Sensing, Automation & IoT" </h3>
 
 ------
 |Arduino IDE Installation Guide |
