@@ -50,7 +50,7 @@
 
 |  **3. Program for blinking LED for n times** |
 | :---- |
-|[Click Here](RGB_LED/RGB_LED.ino)|
+|[Click Here]Blink_LED_ntimes/Blink_LED_ntimes.ino)|
 
 -------
 
