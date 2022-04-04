@@ -36,7 +36,7 @@
 |LDR|A5|
 
 ------
-### 1. Program for Blink LED.
+### 1. Program to Blink LED.
 
    [Source Code](Blink_LED/Blink_LED.ino)
 
@@ -48,7 +48,7 @@
 
 -------
 
-### 3. Program for blinking LED for n times.
+### 3. Program to Blink LED for given number of times.
 
    [Source Code](Blink_LED_ntimes/Blink_LED_ntimes.ino)
 
