@@ -36,21 +36,21 @@
 |LDR|A5|
 
 ------
-|  **1. Program for Blink LED** |
-| :---- |
-|[Click Here](Blink_LED/Blink_LED.ino)|
+### 1. Program for Blink LED.
+
+   [Source Code](Blink_LED/Blink_LED.ino)
 
 ------
 
-|  **2. Program for RGB LED** |
-| :---- |
-|[Click Here](RGB_LED/RGB_LED.ino)|
+### 2. Program for RGB LED.
+
+   [Source Code](RGB_LED/RGB_LED.ino)
 
 -------
 
-|  **3. Program for blinking LED for n times** |
-| :---- |
-|[Click Here](Blink_LED_ntimes/Blink_LED_ntimes.ino)|
+### 3. Program for blinking LED for n times.
+
+   [Source Code](Blink_LED_ntimes/Blink_LED_ntimes.ino)
 
 -------
 
