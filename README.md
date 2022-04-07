@@ -108,7 +108,7 @@
 
 ----------
 
-|**Daily Quiz                  **|
+|**Daily Quiz**|
 |:-----|
 |Day-1|
 |[Click Here]()|
