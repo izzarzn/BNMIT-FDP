@@ -84,3 +84,26 @@
 
 ----------
 
+### 9. Program for LDR
+
+   [Source Code](LDR/LDR.ino)
+
+----------
+
+### 10. Program for LDR using Relay
+
+   [Source Code](Ldr_Relay/Ldr_Relay.ino)
+
+----------
+
+### 11. Program for Hall Effect Sensor
+
+   [Source Code](Hall_Effect/Hall_Effect.ino)
+
+----------
+
+### 12. Program for Relay using Bluetooth
+
+   [Source Code](BT-LED/BT-LED.ino)
+
+----------
