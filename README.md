@@ -108,7 +108,7 @@
 
 ----------
 
-|**Google form Quiz Links**|
+|**Daily Quiz                  **|
 |:-----|
 |Day-1|
 |[Click Here]()|
