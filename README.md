@@ -111,8 +111,8 @@
 |**Daily Quiz**|
 |:-----|
 |Day-1|
-|[Click Here]()|
+|[Click Here](http://form-timer.com/start/cb982457)|
 |Day-2|
-|[Click Here]()|
+|[Click Here](https://forms.gle/wbrSwM8QZ59pE27PA)|
 |Day-3|
-|[Click Here]()|
+|[Click Here](https://forms.gle/ZHARzbBARjDHEGiX7)|
