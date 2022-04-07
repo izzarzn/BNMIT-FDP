@@ -105,6 +105,8 @@
 ### 12. Program for Relay using Bluetooth
 
    [Source Code](BT-LED/BT-LED.ino)
+   
+   [Setup Guide](Bluetooth.md)
 
 ----------
 
