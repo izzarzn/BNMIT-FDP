@@ -72,12 +72,15 @@
 
 -------
 
-### 6. Program for Thermister
+### 7. Program for Thermister
 
-   [Source Code]()
+   [Source Code](Thermistor/Thermistor.ino)
    
-### 7. Program for Potentiometer
+---------   
+   
+### 8. Program for Potentiometer
 
-    [Source Code](Potentiometer/Potentiometer.ino)
+   [Source Code](Potentiometer/Potentiometer.ino)
 
+----------
 
