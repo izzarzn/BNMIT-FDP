@@ -66,7 +66,7 @@
 
 -------
 
-### 6. Program to 
+### 6. Program for Thermister
 
    [Source Code]()
 
