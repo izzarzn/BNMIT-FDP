@@ -108,7 +108,7 @@
 
 ----------
 
-|**Quiz Link**|
+|**Google form Quiz Link**|
 |:-----|
 |Day-1|
 |[Click Here]()|
