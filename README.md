@@ -113,7 +113,7 @@
 |**Day wise Quiz Questions**|
 |:-----|
 |Day-1|
-|[Click Here](http://form-timer.com/start/cb982457)|
+|[Click Here](https://forms.gle/w5YUQz9tafGenX7J7)|
 |Day-2|
 |[Click Here](https://forms.gle/wbrSwM8QZ59pE27PA)|
 |Day-3|
