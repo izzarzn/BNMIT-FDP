@@ -66,9 +66,18 @@
 
 -------
 
+### 6. Program for Buzzer
+
+   [Source Code](Buzzer/Buzzer.ino)
+
+-------
+
 ### 6. Program for Thermister
 
    [Source Code]()
+   
+### 7. Program for Potentiometer
 
+    [Source Code](Potentiometer/Potentiometer.ino)
 
 
