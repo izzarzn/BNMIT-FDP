@@ -103,10 +103,10 @@
 ----------
 
 ### 12. Program for Relay using Bluetooth
-
-   [Source Code](BT-LED/BT-LED.ino)
-   
-   [Setup Guide](Bluetooth.md)
+ 
+   |:-------| 
+   |[Source Code](BT-LED/BT-LED.ino)|
+   |[Setup Guide](https://github.com/izzarzn/RVCE-Manual/blob/cb82e974179d616d79d7915df866384b88328dbf/Bluetooth.md)|
 
 ----------
 
