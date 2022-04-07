@@ -108,7 +108,7 @@
 
 ----------
 
-|**Daily Quiz**|
+|**Daily Wise Quiz Questions**|
 |:-----|
 |Day-1|
 |[Click Here](http://form-timer.com/start/cb982457)|
