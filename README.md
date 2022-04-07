@@ -111,8 +111,8 @@
 |**Quiz Link**|
 |:-----|
 |Day-1|
-||
+|[Click Here]()|
 |Day-2|
-||
+|[Click Here]()|
 |Day-3|
-||
+|[Click Here]()|
