@@ -121,6 +121,6 @@
 
 
 |**External Drivers**|
-|:-------|:--------|
+|:-------:|:--------:|
 |CP210x Driver|[Click Here]()|
 |CH340 Driver|[Click Here]()|
