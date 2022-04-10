@@ -118,3 +118,9 @@
 |[Click Here](https://forms.gle/wbrSwM8QZ59pE27PA)|
 |Day-3|
 |[Click Here](https://forms.gle/ZHARzbBARjDHEGiX7)|
+
+
+|**External Drivers**|
+|:-------||:--------|
+|CP210x Driver|[Click Here]()|
+|CH340 Driver|[Click Here]()|
