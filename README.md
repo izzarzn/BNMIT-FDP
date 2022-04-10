@@ -120,7 +120,7 @@
 |[Click Here](https://forms.gle/ZHARzbBARjDHEGiX7)|
 
 
-|**External Drivers**|
-|:-------:|
-|CP210x Driver [Click Here]()|
-|CH340 Driver [Click Here]()|
+|**External Drivers**| **Links** |
+|:-------:|:-------: |
+|CP210x Driver | [Click Here]()|
+|CH340 Driver | [Click Here]()|
