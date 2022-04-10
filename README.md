@@ -122,5 +122,5 @@
 
 |**External Drivers**| **Links** |
 |:-------:|:-------: |
-|CP210x Driver | [Click Here]()|
+|CP210x Driver | [Click Here](CP210x_Windows_Drivers.zip)|
 |CH340 Driver | [Click Here](CH341SER.zip)|
