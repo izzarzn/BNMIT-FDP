@@ -66,43 +66,43 @@
 
 -------
 
-### 6. Program for Buzzer
+### 6. Program for Buzzer.
 
    [Source Code](Buzzer/Buzzer.ino)
 
 -------
 
-### 7. Program for Thermister
+### 7. Program for Thermister.
 
    [Source Code](Thermistor/Thermistor.ino)
    
 ---------   
    
-### 8. Program for Potentiometer
+### 8. Program for Potentiometer.
 
    [Source Code](Potentiometer/Potentiometer.ino)
 
 ----------
 
-### 9. Program for LDR
+### 9. Program for LDR.
 
    [Source Code](LDR/LDR.ino)
 
 ----------
 
-### 10. Program for LDR using Relay
+### 10. Program for LDR using Relay.
 
    [Source Code](Ldr_Relay/Ldr_Relay.ino)
 
 ----------
 
-### 11. Program for Hall Effect Sensor
+### 11. Program for Hall Effect Sensor.
 
    [Source Code](Hall_Effect/Hall_Effect.ino)
 
 ----------
 
-### 12. Program for Relay using Bluetooth
+### 12. Program for Relay using Bluetooth.
  
    [Click Here Setup Guide](https://github.com/izzarzn/RVCE-Manual/blob/cb82e974179d616d79d7915df866384b88328dbf/Bluetooth.md)
    
