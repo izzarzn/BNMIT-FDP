@@ -126,3 +126,7 @@
 |CP210x Driver | [Click Here](CP210x_Windows_Drivers.zip)|
 |CH340 Driver (Windows) | [Click Here](CH341SER.zip)|
 |CH340 Driver (Mac) | [Click Here](CH341SER-MAC.zip)|
+
+-----------
+
+<h3 align = "center">Don't forget to ⭐ this repo<h3>
